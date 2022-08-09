@@ -1,0 +1,25 @@
+{
+  "name": "tiny-file",
+  "version": "0.0.0",
+  "description": "Tiny file utils for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/tiny-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/tiny-file/issues"
+  },
+  "homepage": "https://github.com/song940/tiny-file#readme"
+}
