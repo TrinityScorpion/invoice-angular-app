@@ -22,7 +22,7 @@ app.listen(3000, () => {
 
 app.get("/", (req, res) => {
   res.send(
-    "<h1 style='text-align: center'>Wellcome in Email Sender App</h1>"
+    "<h1 style='text-align: center'>Wellcome in Email Service</h1>"
   );
   sendMail(user, info => {
     console.log(`The mail has beed send 😃 and the id is ${info.messageId}`);
